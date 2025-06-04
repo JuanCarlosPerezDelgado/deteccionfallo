@@ -1,0 +1,11 @@
+pandas
+matplotlib
+numpy
+streamlit
+streamlit-option-menu
+plotly
+pillow
+CoolProp
+scipy
+openpyxl
+openai
