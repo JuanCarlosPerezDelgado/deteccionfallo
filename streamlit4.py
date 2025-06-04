@@ -51,9 +51,9 @@ video2_uri = to_data_uri(VIDEO2_PATH)
 # ---------------------------------------------------------------------------
 # CONFIG DE LA PÁGINA --------------------------------------------------------
 # ---------------------------------------------------------------------------
-st.set_page_config(page_title="Gemelo Digital en Modo Supervisión para la Detección de Fallos", layout="wide")
+st.set_page_config(page_title="Comparador de Videos", layout="wide")
 
-st.title("Comparador de Videos")
+st.title("Gemelo Digital en Modo Supervisión para la Detección de Fallos")
 
 # ---------------------------------------------------------------------------
 # HTML + JS ------------------------------------------------------------------
